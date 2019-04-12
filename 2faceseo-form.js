@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://hocvienfaceseo.com/khoa-hoc-seo";
+	window.location="https://kesatngoctin.com/gioi-thieu";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
